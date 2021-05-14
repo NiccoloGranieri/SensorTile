@@ -11,8 +11,8 @@ Requirements:
 
 ### Guide
 
-`sudo pip3 insall bluepy'
-`sudo pip3 insall blue-st-sdk'
+`sudo pip3 insall bluepy`
+`sudo pip3 insall blue-st-sdk`
 
 Example files can be found [here](https://github.com/STMicroelectronics/BlueSTSDK_Python)
 Relevant examples seem to be 1 and 6. 
